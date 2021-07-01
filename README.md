@@ -8,8 +8,6 @@ Toasty'nin atlantis sunucusunda kullandığı tüm botları burada paylaşıp eg
 
 ![image](https://user-images.githubusercontent.com/77938499/121361700-376d5700-c93e-11eb-97b4-8e2020c81e41.png)
 
-![image](https://user-images.githubusercontent.com/77938499/121361741-3dfbce80-c93e-11eb-912d-3849c83851c4.png)
-
 ![image](https://user-images.githubusercontent.com/77938499/121361507-0725b880-c93e-11eb-97ac-237e932f75dd.png)
 
 ![image](https://user-images.githubusercontent.com/77938499/121361541-0e4cc680-c93e-11eb-9b96-bdd065287221.png)
