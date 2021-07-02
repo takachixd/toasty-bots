@@ -1,4 +1,4 @@
-# Toasty-Bots Takachi#1000
+# Toasty-Bots Takachi#1000 https://discord.gg/serendia
 
 Toasty'nin atlantis sunucusunda kullandığı tüm botları burada paylaşıp egolarını kendilerine yedirme vol 1
 **Stat Botu**
